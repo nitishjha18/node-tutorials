@@ -2,7 +2,7 @@
   "name": "travel-api",
   "version": "1.0.0",
   "type": "module",
-  "main": "Server.js",
+  "main": "server.js",
   "scripts": {
     "start": "node Server.js",
     "dev": "nodemon Server.js"
